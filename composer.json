@@ -2,31 +2,13 @@
     "name": "php-coveralls/php-coveralls",
     "description": "PHP client library for Coveralls API",
     "keywords": ["coverage", "github", "test", "ci"],
-    "homepage": "https://github.com/php-coveralls/php-coveralls",
+    "homepage": "https://github.com/blpraveen/php-coveralls.git",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Kitamura Satoshi",
-            "email": "with.no.parachute@gmail.com",
-            "homepage": "https://www.facebook.com/satooshi.jp",
-            "role": "Original creator"
-        },
-        {
-            "name": "Takashi Matsuo",
-            "email": "tmatsuo@google.com"
-        },
-        {
-            "name": "Google Inc"
-        },
-        {
-            "name": "Dariusz Ruminski",
-            "email": "dariusz.ruminski@gmail.com",
-            "homepage": "https://github.com/keradus"
-        },
-        {
-            "name": "Contributors",
-            "homepage": "https://github.com/php-coveralls/php-coveralls/graphs/contributors"
+            "name": "B L Praveen",
+            "email": "blpraveen2004@gmail.com"
         }
     ],
     "require": {
@@ -34,7 +16,7 @@
         "ext-json": "*",
         "ext-simplexml": "*",
         "guzzlehttp/guzzle": "^6.0 || ^7.0",
-        "psr/log": "^1.0",
+        "psr/log": "^1.0.1",
         "symfony/config": "^2.1 || ^3.0 || ^4.0 || ^5.0",
         "symfony/console": "^2.1 || ^3.0 || ^4.0 || ^5.0",
         "symfony/stopwatch": "^2.0 || ^3.0 || ^4.0 || ^5.0",
