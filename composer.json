@@ -1,5 +1,5 @@
 {
-    "name": "php-coveralls/php-coveralls",
+    "name": "php-coverall-all",
     "description": "PHP client library for Coveralls API",
     "keywords": ["coverage", "github", "test", "ci"],
     "homepage": "https://github.com/blpraveen/php-coveralls.git",
